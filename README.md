@@ -201,6 +201,13 @@ With an increase in cancellations over the years, it's essential to mitigate thi
 These recommendations are designed to improve our business's overall performance, customer satisfaction, and revenue growth. By focusing on high-revenue categories, enhancing customer engagement, optimizing payment methods, and proactively managing cancellations, we can position our eCommerce business for continued success and competitiveness in the market.
 
 
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+These recommendations are designed to improve our business's overall performance, customer satisfaction, and revenue growth. By focusing on high-revenue categories, enhancing customer engagement, optimizing payment methods, and proactively managing cancellations, we can position our eCommerce business for continued success and competitiveness in the market.
 
 
 

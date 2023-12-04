@@ -1,4 +1,4 @@
-# Analyzing-eCommerce-Business-Performance-Using-SQL
+# Analyzing eCommerce Business Performance using SQL
 
 ## Project Objective:
 In a company, measuring business performance is crucial for tracking, combining, and assessing the success or failure of various business processes. This project aims to analyze the business performance of an eCommerce company by considering several key business metrics, namely customer growth, product quality, and payment type.
